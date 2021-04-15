@@ -43,3 +43,20 @@
   object-fit: contain;
   height: 100px;
 }
+
+.home .home__languageContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+  font-size: 14px;
+}
+
+.home .home__languageContainer a {
+  text-decoration: none;
+  padding: 0px 5px;
+}
+
+.home .home__languageContainer a:hover {
+  text-decoration: underline;
+}

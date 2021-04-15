@@ -28,6 +28,21 @@ const Home = () => {
         <div className="home__inputContainer">
           <Search />
         </div>
+        <div className="home__languageContainer">
+          <p>Google offered in:</p>
+          <a href="https://www.google.com/search?q=hausa&oq=haus&aqs=chrome.1.69i57j0i67i131i433j0i67l3.5776j0j9&sourceid=chrome&ie=UTF-8">
+            Hausa
+          </a>
+          <a href="https://www.google.com/search?q=igbo&oq=igbo&aqs=chrome..69i57j0i67l3.1920j0j9&sourceid=chrome&ie=UTF-8">
+            Igbo
+          </a>
+          <a href="https://www.google.com/search?q=ede+yoruba&oq=ede+y&aqs=chrome.1.69i57j0l4j69i60l3.7668j0j7&sourceid=chrome&ie=UTF-8">
+            Ede Yoruba
+          </a>
+          <a href="https://www.google.com/search?q=nigerian+pidgin&oq=nigerian+pidgin&aqs=chrome..69i57j0l3.10807j0j9&sourceid=chrome&ie=UTF-8">
+            Nigerian Pidgin
+          </a>
+        </div>
       </div>
     </div>
   );
