@@ -42,6 +42,9 @@ const Home = () => {
           <a href="https://www.google.com/search?q=nigerian+pidgin&oq=nigerian+pidgin&aqs=chrome..69i57j0l3.10807j0j9&sourceid=chrome&ie=UTF-8">
             Nigerian Pidgin
           </a>
+          {/* <a href="https://www.google.com/search?q=nigerian+pidgin&oq=nigerian+pidgin&aqs=chrome..69i57j0l3.10807j0j9&sourceid=chrome&ie=UTF-8">
+            Nigerian Pidgin
+          </a> */}
         </div>
       </div>
     </div>
